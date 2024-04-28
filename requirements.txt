@@ -3,7 +3,7 @@ scikit-learn
 allennlp
 numpydoc==1.1.0 # allennlp==0.5.0 requires numpydoc
 numpy
-tensorflow
+tensorflow==1.13.1
 torch
 docutils==0.15
 intervaltree==3.1.0

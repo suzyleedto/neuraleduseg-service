@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # author: Yizhong
 # created_at: 04/09/2018 10:23 PM
-%tensorflow_version 1.x
+
 import tensorflow as tf
 from neuralseg.rnn import rnn
 from neuralseg.elmo_crf_seg import ELMOCRFSegModel
