@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # author: Yizhong
 # created_at: 07/25/2017 上午10:33
-
+%tensorflow_version 1.x
 import tensorflow as tf
 import tensorflow.contrib as tc
 

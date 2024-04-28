@@ -3,7 +3,7 @@
 # author: Yizhong
 # created_at: 04/09/2018 10:23 PM
 import os
-
+%tensorflow_version 1.x
 import numpy as np
 import tensorflow as tf
 import tensorflow.contrib as tc
